@@ -3,10 +3,11 @@
 
 - 📫 How to reach me : barahqusai@gmail.com
 
+## Connect with me:
 
-<a href="[https://github.com/username](https://www.linkedin.com/in/barah-qusai-a62044203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
-  <img src="linked-in-alt.svg" alt="My Profile" width="20">
-</a>
+   <a href="[https://github.com/username](https://www.linkedin.com/in/barah-qusai-a62044203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+   <img src="linked-in-alt.svg" alt="My Profile" width="20">
+ </a>
 
 
 
