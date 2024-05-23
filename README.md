@@ -9,7 +9,8 @@
    <img src="linked-in-alt.svg" alt="My Profile" width="20">
  </a>
 
-
+## Languages and Tools:
+  <img src="linked-in-alt.svg" alt="My Profile" width="20">
 
 <!--
 **Bara7-Qusai/Bara7-Qusai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
