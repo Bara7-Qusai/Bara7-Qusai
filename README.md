@@ -11,7 +11,6 @@
 
 ## Languages and Tools:
   <img src="python-original.svg" alt="My Profile" width="40">  
-  <img src="python-original.svg" alt="My Profile" width="40">  
  
 
 <!--
