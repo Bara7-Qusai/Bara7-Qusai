@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋, I'm Barah Qusai
+                                                  AI Student
+
+- 📫 How to reach me : barahqusai@gmail.com
+
+- [LinkedIn]( https://www.linkedin.com/in/barah-qusai-a62044203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 <!--
 **Bara7-Qusai/Bara7-Qusai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
