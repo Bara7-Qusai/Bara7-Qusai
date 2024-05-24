@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barah Qusai</h1>
-<h3 align="center">AI Student </h3>
+<h3 align="center"> AI Student </h3>
 
 - 📫 How to reach me **barahqusai@gmail.com**
 
