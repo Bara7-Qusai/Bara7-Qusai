@@ -24,9 +24,6 @@
  
 <p > <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bara7-Qusai&show_icons=true&theme=radical" alt="Bara7-Qusai" /> </p>
 
-<a href="http://www.github.com/Bara7-Qusai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oovaa&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bara7-Qusai&layout=compact&theme=dark&card_width=400)
 
