@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Barah Qusai</h1>
  ## About Me
+ <p align="left">
  " I am currently focused on expanding my knowledge in machine learning and deep learning. As a participant in the AWS AI & ML Scholarship Program for 2024, I am developing advanced skills in AI and machine learning using cutting-edge AWS technologies. My passion for AI drives me to continually enhance my expertise and explore diverse areas where AI can make a transformative impact. I am eager to connect with professionals and researchers to collaborate on projects that push the boundaries of innovation in AI. Let’s work together to create groundbreaking solutions! "
+</p>
+
 
 - 📫 How to reach me **barahqusai@gmail.com**
  
