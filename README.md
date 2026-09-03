@@ -37,35 +37,9 @@ I am currently focused on expanding my knowledge in machine learning and deep le
 </p>
 
 
-
-
-
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bara7-Qusai&show_icons=true&locale=en&layout=compact&theme=radical" alt="Bara7-Qusai" /></p>
-
-
  
-<p > <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bara7-Qusai&show_icons=true&theme=radical" alt="Bara7-Qusai" /> </p>
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bara7-Qusai&layout=compact&theme=dark&card_width=400)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bara7-Qusai&label=Profile%20views&color=0e75b6&style=flat" alt="Bara7-Qusai" /> </p>
 
 
-
-<!--
-**Bara7-Qusai/Bara7-Qusai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
